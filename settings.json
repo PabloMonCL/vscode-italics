@@ -50,7 +50,7 @@
             "variable.parameter.url.scss",
             "variable.parameter.url.sass",
             "parameter",
-            "string",
+            // "string",
             "italic",
             "quote",
             "keyword",
